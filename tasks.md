@@ -1,4 +1,4 @@
-# tasks ifc app
+# tasks pages ifc app
 
 - [ ] main page
 - [ ] preaches page
@@ -15,3 +15,7 @@
 - [ ] mision y vision
 - [ ] calendario de actividades semana 
 - [ ] ultimas predicas
+
+
+# todos
+- [ ] admin panel
